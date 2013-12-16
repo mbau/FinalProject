@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Final Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="thumb">Book thumbnail</string>
+    <string name="pre">Preview</string>
+	<string name="link">Web</string>
+
+</resources>
